@@ -1,0 +1,5 @@
+name: KillHealth
+main: Hader\KillHealth\Main
+api: [3.9.5]
+author: Hader
+version: 1.0
