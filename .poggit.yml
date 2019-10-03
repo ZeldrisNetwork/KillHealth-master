@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/zHaderVour/KillHealth-master
+branches:
+- master
+projects:
+  KillHealth-master.KillHealth-master:
+    path: KillHealth-master/KillHealth-master/
+...
